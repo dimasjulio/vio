@@ -5,7 +5,7 @@ const canvasC = document.getElementById('c');
 
 const config = {
   birthdate: 'Sep 5, 2023',
-  name: 'Viorena'
+  name: 'My lovely Cute baby<3'
 };
 
 function hideEverything() {
@@ -48,7 +48,7 @@ x = setInterval(function() {
     hw = w / 2, // half-width
     hh = h / 2,
     opts = {
-      strings: ['HAPPY BIRTHDAY!', 'My lovely cute baby<3', config.name],
+      strings: ['HAPPY BIRTHDAY!', 'Viorena', config.name],
       charSize: 30,
       charSpacing: 35,
       lineHeight: 40,
